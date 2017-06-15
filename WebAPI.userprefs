@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{50FB4A75-70DD-40F4-883D-C580086274B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI/Startup.cs">
+    <Files>
+      <File FileName="WebAPI/Models/Category.cs" Line="7" Column="1" />
+      <File FileName="WebAPI/Controllers/CategoryController.cs" Line="15" Column="23" />
+      <File FileName="WebAPI/Controllers/AuthorController.cs" Line="15" Column="32" />
+      <File FileName="WebAPI/Startup.cs" Line="15" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

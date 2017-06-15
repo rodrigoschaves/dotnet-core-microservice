@@ -1,0 +1,10 @@
+/Users/rodrigo.chaves/Documents/Personal/projects/dotnet/WebAPI/WebAPI/bin/Debug/netcoreapp1.1/WebAPI.deps.json
+/Users/rodrigo.chaves/Documents/Personal/projects/dotnet/WebAPI/WebAPI/bin/Debug/netcoreapp1.1/WebAPI.runtimeconfig.json
+/Users/rodrigo.chaves/Documents/Personal/projects/dotnet/WebAPI/WebAPI/bin/Debug/netcoreapp1.1/WebAPI.runtimeconfig.dev.json
+/Users/rodrigo.chaves/Documents/Personal/projects/dotnet/WebAPI/WebAPI/obj/Debug/netcoreapp1.1/WebAPI.csprojResolveAssemblyReference.cache
+/Users/rodrigo.chaves/Documents/Personal/projects/dotnet/WebAPI/WebAPI/obj/Debug/netcoreapp1.1/WebAPI.csproj.CoreCompileInputs.cache
+/Users/rodrigo.chaves/Documents/Personal/projects/dotnet/WebAPI/WebAPI/obj/Debug/netcoreapp1.1/WebAPI.AssemblyInfo.cs
+/Users/rodrigo.chaves/Documents/Personal/projects/dotnet/WebAPI/WebAPI/bin/Debug/netcoreapp1.1/WebAPI.dll
+/Users/rodrigo.chaves/Documents/Personal/projects/dotnet/WebAPI/WebAPI/bin/Debug/netcoreapp1.1/WebAPI.pdb
+/Users/rodrigo.chaves/Documents/Personal/projects/dotnet/WebAPI/WebAPI/obj/Debug/netcoreapp1.1/WebAPI.dll
+/Users/rodrigo.chaves/Documents/Personal/projects/dotnet/WebAPI/WebAPI/obj/Debug/netcoreapp1.1/WebAPI.pdb
