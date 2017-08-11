@@ -1,2 +1,2 @@
 # dotnet-core-microservice
-Small donet core microservice
+Small dotnet core microservice
